@@ -50,11 +50,11 @@ I enjoy building web applications, learning modern technologies, and turning ide
 
 ## 📌 Featured Projects
 
-### 🛒 ZENMART
+### 🔧 BURAK
 
-E-commerce web project built while developing my frontend skills.
+Backend project developed with TypeScript.
 
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shokirjon1902/ZENMART)
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shokirjon1902/BURAK)
 
 ### 🧑‍💻 REJA
 
@@ -62,17 +62,21 @@ CRUD project built with JavaScript and Node.js.
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shokirjon1902/REJA)
 
-### 🔧 BURAK
 
-Backend project developed with TypeScript.
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shokirjon1902/BURAK)
 
 ### 🐍 PRACTICE
 
 Python and Git learning practice repository.
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shokirjon1902/PRACTICE)
+
+### 🛒 ZENMART
+
+E-commerce web project built while developing my frontend skills.
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shokirjon1902/ZENMART)
+
+
 
 ---
 
