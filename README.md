@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shokirjon
+# Hi 👋, I'm Shokirjon (JOHN)
 
 ### 💻 Full-Stack Developer | JavaScript & TypeScript
 
