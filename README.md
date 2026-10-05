@@ -62,8 +62,6 @@ CRUD project built with JavaScript and Node.js.
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shokirjon1902/REJA)
 
-
-
 ### 🐍 PRACTICE
 
 Python and Git learning practice repository.
@@ -75,8 +73,6 @@ Python and Git learning practice repository.
 E-commerce web project built while developing my frontend skills.
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shokirjon1902/ZENMART)
-
-
 
 ---
 
@@ -95,6 +91,8 @@ E-commerce web project built while developing my frontend skills.
 [![Instagram](https://img.shields.io/badge/Instagram-shokirjon.tojiboyev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shokirjon.tojiboyev)
 
 [![Telegram](https://img.shields.io/badge/Telegram-shokirjon1902-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shokirjon1902)
+
+[![KakaoTalk](https://img.shields.io/badge/KakaoTalk-shokirjon__19-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=000000)](https://open.kakao.com/)
 
 ---
 
