@@ -90,7 +90,7 @@ E-commerce web project built while developing my frontend skills.
 
 [![Instagram](https://img.shields.io/badge/Instagram-shokirjon.tojiboyev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shokirjon.tojiboyev)
 
-[![Telegram](https://img.shields.io/badge/Telegram-shokirjon1902-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shokirjon1902)
+[![Telegram](https://img.shields.io/badge/Telegram-shokirjon_19-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shokirjon1902)
 
 [![KakaoTalk](https://img.shields.io/badge/KakaoTalk-shokirjon__19-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=000000)](https://open.kakao.com/)
 
